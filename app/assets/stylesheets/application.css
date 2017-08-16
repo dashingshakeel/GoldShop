@@ -28,11 +28,12 @@
   background: -webkit-linear-gradient(top, #45484d 0%,#000000 100%); /* Chrome10-25,Safari5.1-6 */
   background: linear-gradient(to bottom, #45484d 0%,#000000 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#45484d', endColorstr='#000000',GradientType=0 ); /* IE6-9 */
-  height: 100px;
+  height: 150px;
   padding: 20px;
 
 }
 .navbar{
+
   background: #ffd65e; /* Old browsers */
   background: -moz-linear-gradient(top, #ffd65e 0%, #febf04 100%); /* FF3.6-15 */
   background: -webkit-linear-gradient(top, #ffd65e 0%,#febf04 100%); /* Chrome10-25,Safari5.1-6 */
@@ -45,6 +46,7 @@
   height: 40px;
   border-radius: 3px;
   font-size: 20px;
+  margin-top: 40px;
   padding-left: 20px;
 }
 .search-button{
@@ -89,6 +91,7 @@
 }
 .gold{
   list-style: none;
+  margin-left: 200px;
   
 }
 .gold > li{
@@ -104,7 +107,7 @@ li > a{
   padding: 8px;
 
   font-size: 20px;
-  transition: 0.8s;
+  transition: 0.5s;
 }
 .free{
   color: white;
@@ -117,9 +120,9 @@ li > a:hover{
   color: black;
 
   text-shadow: 2px 2px #EEE8AA;
-  box-shadow: 2px 2px 5px 5px #EEE8AA;
+  box-shadow: 1px 1px 15px 5px #EEE8AA;
   text-decoration: none;
-  transition: 0.8s;
+  transition: 0.5s;
   background-color: transparent;
   
 }

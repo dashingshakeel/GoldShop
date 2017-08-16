@@ -1,0 +1,29 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  code: MyString
+  quantity: 1
+  weight: MyString
+  otherchanges: MyString
+  size: 1
+  type: 
+  gender: MyString
+  purity: MyString
+  color: MyString
+  image: MyString
+  occasion_id: MyString
+
+two:
+  name: MyString
+  code: MyString
+  quantity: 1
+  weight: MyString
+  otherchanges: MyString
+  size: 1
+  type: 
+  gender: MyString
+  purity: MyString
+  color: MyString
+  image: MyString
+  occasion_id: MyString
